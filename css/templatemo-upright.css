@@ -32,13 +32,13 @@ a:hover {
 .btn-primary {
 	padding: 12px 50px;
     border-radius: 0;
-    background: #006699;
+    background: #38b6ff;
     font-size: 1.2rem;
     border: 0;
 }
 
-.btn-primary:hover { background: #068ccf; }
-.tm-text-primary { color: #006699; }
+.btn-primary:hover { background: #7ed957; }
+.tm-text-primary { color: #545454; }
 .tm-text-secondary { color: #009999; }
 hr { border-top: 4px solid #CCC; }
 
