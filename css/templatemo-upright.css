@@ -490,6 +490,7 @@ figure.effect-honey:hover ul li a {
 .tm-social-link:hover .fa-facebook { color: #3b5998; }
 .tm-social-link:hover .fa-twitter { color:  #00acee; }
 .tm-social-link:hover .fa-youtube { color: #c4302b; }
+.tm-social-link:hover .fa-linkedin { color: #335db9; }
 
 .slick-dots {
 	position: static;
